@@ -21,6 +21,6 @@ This Java program simulates a deck of 52 playing cards and provides various oper
 2. Run using `java Main`
 
 ## Author
-- **Name:** Bhoomika Kapde
-- **PRN:** 23070126025
+- **Name:** MAHI JADEJA
+- **PRN:** 23070126068
 - **Batch:** 2023-27
